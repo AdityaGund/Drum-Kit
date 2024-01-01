@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../jQuery"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Drum Kit Starting Files"
+	}
+}
